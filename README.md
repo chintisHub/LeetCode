@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/chintisHub/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintisHub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
@@ -29,4 +30,12 @@
 |  |
 | ------- |
 | [3189-find-champion-ii](https://github.com/chintisHub/LeetCode/tree/master/3189-find-champion-ii) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
