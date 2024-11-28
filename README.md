@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintisHub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -18,10 +19,12 @@
 | ------- |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
