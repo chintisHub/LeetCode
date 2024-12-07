@@ -10,11 +10,13 @@
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintisHub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintisHub/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,4 +60,12 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
