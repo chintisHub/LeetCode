@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0001-two-sum](https://github.com/chintisHub/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@
 | [0088-merge-sorted-array](https://github.com/chintisHub/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
@@ -71,6 +74,7 @@
 |  |
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,4 +108,8 @@
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
