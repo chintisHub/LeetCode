@@ -17,6 +17,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [1013-fibonacci-number](https://github.com/chintisHub/LeetCode/tree/master/1013-fibonacci-number) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
 | ------- |
@@ -76,6 +78,7 @@
 | ------- |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/chintisHub/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/chintisHub/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
