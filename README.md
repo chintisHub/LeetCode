@@ -15,6 +15,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1917-maximum-average-pass-ratio](https://github.com/chintisHub/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/chintisHub/LeetCode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/chintisHub/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
@@ -71,6 +72,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/chintisHub/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chintisHub/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/chintisHub/LeetCode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## String Matching
 |  |
@@ -110,6 +112,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/chintisHub/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/chintisHub/LeetCode/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
