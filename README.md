@@ -165,6 +165,7 @@
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/chintisHub/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/chintisHub/LeetCode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2487-optimal-partition-of-string](https://github.com/chintisHub/LeetCode/tree/master/2487-optimal-partition-of-string) |
+| [2509-minimize-xor](https://github.com/chintisHub/LeetCode/tree/master/2509-minimize-xor) |
 ## Stack
 |  |
 | ------- |
@@ -207,5 +208,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2509-minimize-xor](https://github.com/chintisHub/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/chintisHub/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
