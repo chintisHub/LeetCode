@@ -15,6 +15,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1524-string-matching-in-an-array](https://github.com/chintisHub/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/chintisHub/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chintisHub/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/chintisHub/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2232-adding-spaces-to-a-string](https://github.com/chintisHub/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -81,6 +82,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
+| [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## String
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/chintisHub/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
