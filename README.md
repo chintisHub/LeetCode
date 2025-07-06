@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintisHub/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/chintisHub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
@@ -97,6 +98,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chintisHub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -219,6 +221,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/chintisHub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chintisHub/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
