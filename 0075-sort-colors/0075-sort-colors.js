@@ -1,35 +1,22 @@
-/**
- * @param {number[]} nums
- * @return {void} Do not return anything, modify nums in-place instead.
- */
 var sortColors = function(nums) {
-    let red = 0;
-    let white = 0;
-    let blue = 0;
-    for(let i in nums){
-        if(nums[i]=== 0){
-            red+=1;
-        }
-        else if(nums[i]===1){
-            white+=1;
-        }
-        else{
-            blue+=1;
-        }
+    let zero = 0, one = 0, two = 0;
+
+    for (let n of nums) {
+        if (n === 0) zero++;
+        else if (n === 1) one++;
+        else two++;
     }
-    for(let i in nums){
-        if(red!==0){
+
+    for (let i = 0; i < nums.length; i++) {
+        if (zero > 0) {
             nums[i] = 0;
-            red--;
-        }
-        else if(white!==0){
+            zero--;
+        } else if (one > 0) {
             nums[i] = 1;
-            white--;
-        }
-        else{
+            one--;
+        } else {
             nums[i] = 2;
-            blue--;
+            two--;
         }
     }
-    return nums
 };
