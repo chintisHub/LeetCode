@@ -16,6 +16,7 @@
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -48,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 | [0952-word-subsets](https://github.com/chintisHub/LeetCode/tree/master/0952-word-subsets) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/chintisHub/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/chintisHub/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/chintisHub/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
@@ -264,8 +267,10 @@
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
