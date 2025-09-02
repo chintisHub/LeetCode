@@ -15,6 +15,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/chintisHub/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/chintisHub/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
+| [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
 | [1876-map-of-highest-peak](https://github.com/chintisHub/LeetCode/tree/master/1876-map-of-highest-peak) |
 ## String
@@ -178,6 +180,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/chintisHub/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/chintisHub/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/chintisHub/LeetCode/tree/master/2465-shifting-letters-ii) |
@@ -281,6 +284,7 @@
 ## Design
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 ## Merge Sort
