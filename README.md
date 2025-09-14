@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/chintisHub/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/chintisHub/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/chintisHub/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/chintisHub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/chintisHub/LeetCode/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chintisHub/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/chintisHub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/chintisHub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/chintisHub/LeetCode/tree/master/0048-rotate-image) |
 | [0304-range-sum-query-2d-immutable](https://github.com/chintisHub/LeetCode/tree/master/0304-range-sum-query-2d-immutable) |
 | [1396-count-servers-that-communicate](https://github.com/chintisHub/LeetCode/tree/master/1396-count-servers-that-communicate) |
