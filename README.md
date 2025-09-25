@@ -53,6 +53,7 @@
 | [0036-valid-sudoku](https://github.com/chintisHub/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/chintisHub/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/chintisHub/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/chintisHub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/chintisHub/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/chintisHub/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/chintisHub/LeetCode/tree/master/0242-valid-anagram) |
@@ -287,6 +288,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/chintisHub/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0816-design-hashset](https://github.com/chintisHub/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/chintisHub/LeetCode/tree/master/0817-design-hashmap) |
 ## Design
